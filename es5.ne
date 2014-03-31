@@ -6,7 +6,7 @@ iName -> nameFirst nameEndings
 nameEndings -> nameLast nameEndings
     | null
 isKeyword -> FIXME
-name -> ~isKeyword iName
+name -> notIsKeyword iName
 keyword -> isKeyword iName
 hexDigit -> [0-9a-fA-F]
 hexDigits -> hexDigit hexDigits
