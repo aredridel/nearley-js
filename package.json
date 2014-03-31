@@ -1,0 +1,22 @@
+{
+  "name": "nearley-js",
+  "version": "0.0.0",
+  "description": "A nearley grammar for JavaScript (ES5)",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "parser",
+    "javascript",
+    "nearley",
+    "grammar"
+  ],
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
+  "license": "MIT",
+  "dependencies": {
+    "nearley": "^0.1.1"
+  },
+  "devDependencies": {
+    "tape": "^2.12.1"
+  }
+}
