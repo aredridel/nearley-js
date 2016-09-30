@@ -17,6 +17,6 @@
     "nearley": "^0.1.1"
   },
   "devDependencies": {
-    "tape": "^2.12.1"
+    "tape": "^4.6.1"
   }
 }
