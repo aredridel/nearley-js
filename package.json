@@ -14,7 +14,7 @@
   "author": "Aria Stewart <aredridel@nbtsc.org>",
   "license": "MIT",
   "dependencies": {
-    "nearley": "^0.1.1"
+    "nearley": "^2.7.2"
   },
   "devDependencies": {
     "tape": "^4.6.2"
